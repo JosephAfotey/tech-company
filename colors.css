@@ -91,7 +91,7 @@ a:hover, #header.nav-solid nav a:hover {
 
 
 #banner {
-    background: url("../images/banner-images/damian.jpg") no-repeat center top;
+    background: url("damian.jpg") no-repeat center top;
     background-size:contain;
 }
 
